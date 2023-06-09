@@ -6,6 +6,7 @@ public class Seminar2 {
         String s1 = "Привет! ";
         s1 = s;
 
+
         Throwable t = new Throwable();
         Throwable t1 = new Throwable();
 
